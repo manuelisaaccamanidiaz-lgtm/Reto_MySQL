@@ -37,4 +37,4 @@ Los ejercicios están organizados en archivos según el tipo de instrucciones SQ
 
 ## Autor
 
-**Isaac Camani Díaz**
+**Manuel Isaac Camaño Díaz**
